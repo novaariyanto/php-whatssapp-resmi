@@ -190,10 +190,10 @@ Contoh penggunaan nyata **WhatsApp API PHP** dengan template message:
 
 ```bash
 # Clone repository ini
-git clone https://github.com/whatscrm/send-whatsapp-template-php.git
+git clone https://github.com/novaariyanto/php-whatssapp-resmi.git
 
 # Masuk ke folder
-cd send-whatsapp-template-php
+cd php-whatssapp-resmi
 
 # Edit API Key dan nomor tujuan
 nano send-template.php
